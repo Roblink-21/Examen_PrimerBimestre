@@ -13,6 +13,6 @@ Cualquier similitud en los comentarios del código serán considerados copia.
 # Estudiante
 Nombre: Roberth Pincha
 
-#Desarrollo
+# Desarrollo
 
 Cada script sera subido en diferentes ramas junto a su explicacion
