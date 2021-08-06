@@ -13,10 +13,10 @@ import json
 
 
 ###API de Twitter########################
-ckey = "0wczvh9IwiT9iQyxqbNdr1PrQ"
-csecret = "2pxbraO1mUeXJNkAIrHLFguenAcYWzP8x8ulczwT3dvOWM03VL"
-atoken = "1415799839380676620-acKNBshhVoOGwe6C0L7zFNOlSgOPyj"
-asecret = "U0QYqsDxrpmcnpPOd6ISXOp6jW0mOANC2PUtPIyHTDuIP"
+ckey = "*************************"
+csecret = "*************************************************"
+atoken = "***************************************************"
+asecret = "**************************************************"
 #####################################
 
 class listener(StreamListener):
